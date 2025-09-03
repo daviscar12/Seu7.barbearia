@@ -85,6 +85,7 @@ header.scrolled {
   font-weight: 500;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
+  margin-left: 20px;
 }
 
 .nav-link:hover {
@@ -285,7 +286,7 @@ header.scrolled {
       -ms-flex: 1;
           flex: 1;
   min-width: 300px;
-  border-radius: 10px;
+  border-radius: 500px;
   overflow: hidden;
 }
 
