@@ -165,7 +165,6 @@ header.scrolled {
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Serviços */
 .services {
   padding: 100px 0;
   background-color: #fff;
@@ -263,7 +262,6 @@ header.scrolled {
   font-size: 1.2rem;
 }
 
-/* Sobre */
 .about {
   padding: 100px 0;
   background-color: var(--dark);
@@ -315,7 +313,6 @@ header.scrolled {
   line-height: 1.6;
 }
 
-/* Galeria */
 .gallery {
   padding: 100px 0;
   background-color: #fff;
@@ -377,7 +374,6 @@ header.scrolled {
   opacity: 1;
 }
 
-/* Agendamento */
 .booking {
   padding: 100px 0;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.8))), url("https://images.unsplash.com/photo-1599351431202-1e0f0137899a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80") no-repeat center center/cover;
